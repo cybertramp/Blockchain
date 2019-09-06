@@ -18,11 +18,11 @@ My blockchain studies pages.
 
 - Bitcoin core
 
-흔히 말하는 Bitcoin 레퍼런스를 구현한 것
+  흔히 말하는 Bitcoin 레퍼런스를 구현한 것
 
 - Ethereum
 
-Dapps 구축 플랫폼, 스마트 컨트랙트
+  Dapps 구축 플랫폼, 스마트 컨트랙트
 
 - Hyperledger Fabric
 
